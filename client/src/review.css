@@ -1,0 +1,42 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.review {
+    width: '120px' !important;
+    height: '120px' !important;
+}
+
+.review-text {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    color: #002f57;
+    /* border: 1px solid black; */
+    height: 70%;
+    padding: 5px;
+}
+
+.review-name {
+    /* border: 1px solid black; */
+    height: 10%;
+    padding: 5px;
+    color: #0077e0;
+}
+
+.review-date {
+    /* border: 1px solid black; */
+    height: 5%;
+    padding: 5px;
+    color: #0077e0;
+}
+
+.pagination {
+    background: #002f57;
+    color: white;
+    border: none;
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+}

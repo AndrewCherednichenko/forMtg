@@ -1,0 +1,41 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.headerWrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 100vw;
+    background: #002f57;
+    position: fixed;
+}
+
+.logo {
+    height: 70px;
+    margin-left: 20px;
+}
+
+.rightGrid {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.selectRuEng {
+    background: none;
+    border: none;
+    color: white;
+}
+
+.watch {
+    color: white;
+    /* margin-right: 10px; */
+    /* margin-top: 4px; */
+}
+
+hr {
+    width: 20px;
+    transform: rotate(90deg);
+    color: white;
+}
